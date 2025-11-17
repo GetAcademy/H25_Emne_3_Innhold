@@ -23,15 +23,20 @@ Fire hoveddeler:
 
 ### Økt 1 – tirsdag 18.11 – Fra JavaScript til C#
 
+- Gå gjennom pensum
+- Visual Studio - Community Edition
 - Likheter og forskjeller mellom JavaScript og C#
-- Sterk typing og kompilering
 - Første konsoll-applikasjon
-- Input med `Console.ReadLine` og `Console.ReadKey()`
-- Spørsmål og Svar
+- Input med `Console.ReadLine`
+- Spørsmål og Svar - og noen datatyper
 - Refactoring
     - Trekke ut metoder
+    - Resharper - https://account.jetbrains.com/a/dc693qyu
     - Samle metoder i egen klasse `MyConsole`
-- Enkel tastestyring
+- Mer om Console
+    - Farger
+    - Posisjon
+- Enkel tastestyring - input med  `Console.ReadKey()`
     - Flytte
     - Styre retning
     - Endre farge
