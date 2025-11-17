@@ -26,8 +26,15 @@ Fire hoveddeler:
 - Likheter og forskjeller mellom JavaScript og C#
 - Sterk typing og kompilering
 - Første konsoll-applikasjon
-- Input med `Console.ReadLine` og `TryParse`
-- Enkle effekter i konsoll (farger, posisjonering)
+- Input med `Console.ReadLine` og `Console.ReadKey()`
+- Spørsmål og Svar
+- Refactoring
+    - Trekke ut metoder
+    - Samle metoder i egen klasse `MyConsole`
+- Enkel tastestyring
+    - Flytte
+    - Styre retning
+    - Endre farge
 
 ---
 
