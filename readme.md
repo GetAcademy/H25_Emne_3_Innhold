@@ -12,7 +12,7 @@ Fire hoveddeler:
 
 - [Del 1 – Fra JavaScript til C#](#del1)
 - [Del 2 – Grunnleggende objektorientering](#del2)
-- [Del 3 – Backend & Fullstack](#del3)
+- [Del 3 – API, kobling til frontend og forenklet fullstack](#del3)
 - [Del 4 – Videregående objektorientering](#del4)
 
 ---
@@ -49,17 +49,19 @@ Fire hoveddeler:
 - Arrays og lister
 - Overloads og default parameters
 - Casting, parsing og `enum`
-- Tilfeldige tall og små konsoll-oppgaver
+- Tilfeldige tall 
+- Game of life
 
 ---
 
 ### Økt 3 – tirsdag 25.11 – Fra JS-objekter til C#-klasser
 
-- Klassen som byggekloss
-- Fields, properties og constructor
+- Klasse som mal for objekter ala JavaScript - inkl. felt/objektvariable
+- Liste av objekter!
 - Lage `GameObject`
-- Metoder i klasser
 - Enkel konsoll-animasjon
+- Flytte metoder inn i klasser
+- Properties og constructor
 
 ---
 
@@ -69,68 +71,72 @@ Fire hoveddeler:
 
 ### Økt 4 – torsdag 27.11 – Strukturerte klasser og serialisering
 
-- Mange objekter i spill / modell
+- Enkel klikker knyttet til en bestemt tast i tre versjoner
+    - en klikker uten klasse
+    - en klikker med klasse
+    - mange klikkere med klasse
 - Static vs. non-static
 - JSON save/load
-- Mini-prosjekt: «Clicker» med persistens
 
 ---
 
 ### Økt 5 – tirsdag 2.12 – Introduksjon til objektorientering
 
 - Innkapsling (encapsulation)
-- Koblinger mellom objekter
-- Kort intro til Model–View–Presenter (MVP)
-- Towers of Hanoi (som ren OO-demo)
+- Trafikklys som eksempel
+    - Kan gjøre refactoring internt uten å påvirke koden rundt
+- Innpakking av ikke-fleksibel array i klasse + enkel generics 
+- Towers of Hanoi (kort gjennomgang av ferdig kode)
 
 ---
 
 ### Økt 6 – torsdag 4.12 – OO-modellering videre
 
-- Objektorientert design på små systemer
-- Trafikklys som modell (eller lignende lite system)
-- Separasjon av logikk og UI
-- Lett refaktorering (flytte logikk ut av presentasjon)
+- Introduksjon til WPF 
+    - Eksempel på bibliotek for rike brukergrensesnitt
+    - Relevant som eksempel på objektorientering + native app-utvikling (er typisk enten lignende bibliotek eller innpakking av web frontend)
+    - Avalonia (https://avaloniaui.net/) for de som bruker Mac eller Linux
+    - Klikker som eksempel 
+        - inkl. kort introduksjon til hva arv er
+- Kort om model-view-presenter og se på å gjenbruke model (inkl. metodene som endrer på model, dvs. controller i MVC) til både view i Console og WPF
 
 ---
 
 <a id="del3"></a>
 
-## Del 3 – Backend & Fullstack
+## Del 3 – API, kobling til frontend og forenklet fullstack
 
-### Økt 7 – fredag 6.12 – Intro backend & fullstack (ClaimTheSquare del 1)
+### Økt 7 – fredag 6.12 – Intro API
 
-- HTTP og JSON: request/response
-- Minimal API i C#
-- DTO-er og mapping
-- Første endepunkt
-- Testing i Postman
+- Introduksjon til ASP.NET Minimal API
+- ClaimTheSquare del 1 
+    - Lage API
+    - Koble til Vanilla JavaScript-frontend
+    - HTTP-tunnel
 
 ---
 
 ### Økt 8 – tirsdag 9.12 – ClaimTheSquare del 2
 
-- Flere endepunkter (f.eks. GET/POST/PUT)
-- Service-lag (forretningslogikk)
-- Enkel JavaScript-klient
-- Studentene kobler seg til felles server (HTTP-tunnel)
+- Mer om ASP.NET
+- Enkel persistens
 
 ---
 
 ### Økt 9 – torsdag 11.12 – ClaimTheSquare del 3
 
-- Persistens via JSON-fil eller repository
-- Introduksjon til interfaces
-- Forbedring av klienten
-- Egen variant av spillet i par/duo
+- Kort introduksjon til SQL og databaser + snakke med database fra C#
 
 ---
 
-### Økt 10 – tirsdag 16.12 – Videre objektorientering i fullstack-kontekst
+<a id="del4"></a>
 
-- Interfaces i praksis
-- Enkel bruk av Strategy pattern
-- Eksempel: `TextElement`-hierarki (f.eks. overskrift, punkt, avsnitt)
+## Del 4 – Videregående objektorientering
+
+
+### Økt 10 – tirsdag 16.12 – Introduksjon til interface
+
+- Enkel polymorfisme med interface og arv
 
 ---
 
@@ -138,8 +144,8 @@ Fire hoveddeler:
 
 - `IEnumerable` og `IEnumerator`
 - Extension methods
-- Grunnleggende LINQ (Where, Select, Any, GroupBy)
-- Statistikk-endepunkt i ClaimTheSquare (f.eks. oversikt over «claims»)
+- Builder Pattern
+- Grunnleggende LINQ
 
 ---
 
@@ -151,22 +157,19 @@ Fire hoveddeler:
 
 ---
 
-<a id="del4"></a>
-
-## Del 4 – Videregående objektorientering
 
 ### Økt 12 – tirsdag 6.1 – SRP og DIP
 
 - Single Responsibility Principle (SRP)
 - Dependency Inversion Principle (DIP)
-- Mock repository
-- Struktur: UI → service → repository → fil
+- Eksempel: telle linjer med søketekst i fil - i flere versjoner
+    - 
 
 ---
 
 ### Økt 13 – torsdag 8.1 – Unit testing og mocking
 
-- xUnit/NUnit (oppsett og bruk)
+- Unit testing med NUnit
 - Test av domenelogikk
 - Test av service-lag
 - Mocking av repository
