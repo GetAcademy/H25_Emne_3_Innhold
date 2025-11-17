@@ -163,9 +163,13 @@ Fire hoveddeler:
 - Dependency Inversion Principle (DIP) 
     - Eksempel: ChatClient og ChatServer
 - Single Responsibility Principle (SRP)
-    - Eksempel: telle linjer med søketekst i fil - i flere versjoner
+    - Eksempel: telle linjer med søketekst i fil 
+    - versjon 0: kode som blandet logikk og lesing fra fil
 - Vi bruker DIP til å skrive om til kode som tilfredsstiller SRP
     - Dependency _Injection_ og service-klasser
+    - versjon 1a: Med interface og dependency injection
+- Kort om "Functional Core, Imperative Shell" ala Scott Wlaschin, https://www.youtube.com/watch?v=P1vES9AgfC4
+    - versjon 1b: Dependency Inversion manuelt uten interface
 
 ---
 
