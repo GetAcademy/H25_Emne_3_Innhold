@@ -160,26 +160,24 @@ Fire hoveddeler:
 
 ### Økt 12 – tirsdag 6.1 – SRP og DIP
 
+- Dependency Inversion Principle (DIP) 
+    - Eksempel: ChatClient og ChatServer
 - Single Responsibility Principle (SRP)
-- Dependency Inversion Principle (DIP)
-- Eksempel: telle linjer med søketekst i fil - i flere versjoner
-    - 
+    - Eksempel: telle linjer med søketekst i fil - i flere versjoner
+- Vi bruker DIP til å skrive om til kode som tilfredsstiller SRP
+    - Dependency _Injection_ og service-klasser
 
 ---
 
 ### Økt 13 – torsdag 8.1 – Unit testing og mocking
 
 - Unit testing med NUnit
-- Test av domenelogikk
-- Test av service-lag
-- Mocking av repository
-- Testing av ClaimTheSquare-logikk
+- Testing av service-klasser inkl. mocking 
+- Testing av ClaimTheSquare-logikk hvis tid
 
 ---
 
 ### Økt 14 – tirsdag 13.1 – Arv og oppsummerende småprosjekt
 
-- Grunnleggende arv
-- Riktig bruk av arv vs. komposisjon
-- Lage et lite arvehierarki i par/duo
-- Oppsummering av OO-prinsipper i emnet
+- Mer om arv - eller ledig til om det er noe annet vi ikke har rukket eller ønsker mer av.
+- Kort nevne objektorientert analyse og design om vi ikke har snakket om det.
