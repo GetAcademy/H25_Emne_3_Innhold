@@ -2,8 +2,6 @@
 
 Fire hoveddeler:
 
-## Navigasjon
-
 1. [Fra JavaScript til C#](#del1)
 1. [Grunnleggende objektorientering](#del2)
 1. [API, kobling til frontend og forenklet fullstack](#del3)
