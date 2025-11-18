@@ -34,6 +34,9 @@ Fire hoveddeler:
     - Endre farge
 - Legge ut C# på GitHub - .gitignore!
 
+Opptak: 
+
+- https://photos.app.goo.gl/92xAU2FfBBe42hZD7
 ---
 
 ### Økt 2 – torsdag 20.11 – Grunnleggende C#
