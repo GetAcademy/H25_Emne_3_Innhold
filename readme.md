@@ -1,19 +1,13 @@
 # Emne 3 – C# og Objektorientert Programmering
 
 Fire hoveddeler:
-1. Fra JavaScript til C#
-2. Grunnleggende objektorientering
-3. Backend & Fullstack
-4. Videregående objektorientering
-
----
 
 ## Navigasjon
 
-- [Del 1 – Fra JavaScript til C#](#del1)
-- [Del 2 – Grunnleggende objektorientering](#del2)
-- [Del 3 – API, kobling til frontend og forenklet fullstack](#del3)
-- [Del 4 – Videregående objektorientering](#del4)
+1. [Fra JavaScript til C#](#del1)
+1. [Grunnleggende objektorientering](#del2)
+1. [API, kobling til frontend og forenklet fullstack](#del3)
+1. [Videregående objektorientering](#del4)
 
 ---
 
