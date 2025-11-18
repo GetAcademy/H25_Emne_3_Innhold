@@ -37,6 +37,10 @@ Fire hoveddeler:
 Opptak: 
 
 - https://photos.app.goo.gl/92xAU2FfBBe42hZD7
+
+Kode: 
+
+- https://github.com/GetAcademy/ConsoleApp2
 ---
 
 ### Økt 2 – torsdag 20.11 – Grunnleggende C#
