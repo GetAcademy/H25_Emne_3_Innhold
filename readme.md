@@ -40,6 +40,7 @@ Fire hoveddeler:
     - Flytte
     - Styre retning
     - Endre farge
+- Legge ut C# på GitHub - .gitignore!
 
 ---
 
