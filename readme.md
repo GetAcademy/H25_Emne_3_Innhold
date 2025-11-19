@@ -45,10 +45,17 @@ Kode:
 
 ### Økt 2 – torsdag 20.11 – Grunnleggende C#
 
-- Datatyper
-- Arrays og lister
-- Overloads og default parameters
-- Casting, parsing og `enum`
+- Datatyper: bool, int, char, string, float/double
+- Spørre-metoder i MyConsole
+    - AskForBool
+    - AskForChar
+    - AskForFloat
+- Eksempel: Bruker velger tegn, posisjon og invertering eller ikke
+- Arrays og lister. 
+    - Bruker velger del av ascii-tabellen
+    - Loope gjennom ConsoleColors
+    - `enum`
+- Overloads og default parameters - Vi utvider MyConsole
 - Tilfeldige tall 
 - Game of life
 
