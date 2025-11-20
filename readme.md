@@ -67,6 +67,10 @@ Kode:
 
 - https://github.com/GetAcademy/H25_3.2_DemoDatatypesArrayOverloadRandom
 
+Opptak: 
+
+- https://photos.app.goo.gl/LtzUPsU5RxMXgaVH7
+
 ---
 
 ### Økt 3 – tirsdag 25.11 – Fra JS-objekter til C#-klasser
