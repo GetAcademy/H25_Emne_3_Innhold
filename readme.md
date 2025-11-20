@@ -61,6 +61,11 @@ Kode:
 - Tilfeldige tall 
 - Game of life
 
+
+Kode: 
+
+- https://github.com/GetAcademy/H25_3.2_DemoDatatypesArrayOverloadRandom
+
 ---
 
 ### Økt 3 – tirsdag 25.11 – Fra JS-objekter til C#-klasser
