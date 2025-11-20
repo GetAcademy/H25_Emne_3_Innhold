@@ -40,7 +40,7 @@ Opptak:
 
 Kode: 
 
-- https://github.com/GetAcademy/ConsoleApp2
+- https://github.com/GetAcademy/H25_3.1_ConsoleApp2
 ---
 
 ### Økt 2 – torsdag 20.11 – Grunnleggende C#
