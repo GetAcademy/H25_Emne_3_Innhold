@@ -46,6 +46,7 @@ Kode:
 ### Økt 2 – torsdag 20.11 – Grunnleggende C#
 
 - Datatyper: bool, int, char, string, float/double
+- `var`
 - Spørre-metoder i MyConsole
     - AskForBool
     - AskForChar
