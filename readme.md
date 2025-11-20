@@ -51,6 +51,7 @@ Kode:
     - AskForBool
     - AskForChar
     - AskForFloat
+- `null`-verdier
 - Eksempel: Bruker velger tegn, posisjon og invertering eller ikke
 - Arrays og lister. 
     - Bruker velger del av ascii-tabellen
