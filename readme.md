@@ -55,6 +55,7 @@ Kode:
 - Arrays og lister. 
     - Bruker velger del av ascii-tabellen
     - Loope gjennom ConsoleColors
+    - Printe flere linjer med tekst i en bestemt posisjon (inkl. `params`)
     - `enum`
 - Overloads og default parameters - Vi utvider MyConsole
 - Tilfeldige tall 
