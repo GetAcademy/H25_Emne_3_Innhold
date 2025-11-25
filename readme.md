@@ -80,7 +80,11 @@ Opptak:
 - Lage `GameObject`
 - Enkel konsoll-animasjon
 - Flytte metoder inn i klasser
-- Properties og constructor
+
+Shortcuts: 
+
+- https://resources.jetbrains.com/storage/products/resharper/docs/ReSharper_DefaultKeymap_VSscheme.pdf
+- https://visualstudio.microsoft.com/keyboard-shortcuts.pdf
 
 Kode: 
 
@@ -98,6 +102,7 @@ Opptak:
 
 ### Økt 4 – torsdag 27.11 – Strukturerte klasser og serialisering
 
+- Properties og constructor
 - Enkel klikker knyttet til en bestemt tast i tre versjoner
     - en klikker uten klasse
     - en klikker med klasse
