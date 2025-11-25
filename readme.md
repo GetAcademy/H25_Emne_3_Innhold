@@ -82,6 +82,14 @@ Opptak:
 - Flytte metoder inn i klasser
 - Properties og constructor
 
+Kode: 
+
+- https://github.com/GetAcademy/H25_3.3_IntroObjects
+
+Opptak: 
+
+- https://photos.app.goo.gl/oDq3gbA4NBgZHcnd6
+
 ---
 
 <a id="del2"></a>
