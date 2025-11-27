@@ -102,7 +102,7 @@ Opptak:
 
 ### Økt 4 – torsdag 27.11 – Strukturerte klasser og serialisering
 
-- Properties og constructor
+- Constructor
 - Enkel klikker knyttet til en bestemt tast i tre versjoner
     - en klikker uten klasse
     - en klikker med klasse
@@ -123,6 +123,7 @@ Kode:
 ### Økt 5 – tirsdag 2.12 – Introduksjon til objektorientering
 
 - Innkapsling (encapsulation)
+- Properties
 - Trafikklys som eksempel
     - Kan gjøre refactoring internt uten å påvirke koden rundt
 - Innpakking av ikke-fleksibel array i klasse + enkel generics 
