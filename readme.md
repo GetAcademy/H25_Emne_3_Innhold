@@ -110,6 +110,14 @@ Opptak:
 - Static vs. non-static
 - JSON save/load
 
+Opptak: 
+
+- https://photos.app.goo.gl/BQpEm6SBsmwb8ab98
+
+Kode: 
+
+- https://github.com/GetAcademy/H25_3.4_MoreClassAndStatic
+
 ---
 
 ### Økt 5 – tirsdag 2.12 – Introduksjon til objektorientering
