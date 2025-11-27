@@ -108,6 +108,7 @@ Opptak:
     - en klikker med klasse
     - mange klikkere med klasse
 - Static vs. non-static
+    - flere eksempler: https://chatgpt.com/share/692847e0-ccfc-8012-8a07-4fb97c02d80e
 - JSON save/load
 
 Opptak: 
