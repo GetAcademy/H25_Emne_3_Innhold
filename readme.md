@@ -90,10 +90,11 @@ Kode:
 ### Økt 5 – tirsdag 2.12 – Introduksjon til objektorientering
 
 - Innkapsling (encapsulation)
-- Trafikklys som eksempel
+- Trafikklys som eksempel [TrafficLightConsole.cs](files/5/TrafficLightConsole.cs)
     - Kan gjøre refactoring internt uten å påvirke koden rundt
 - Innpakking av ikke-fleksibel array i klasse + enkel generics 
 - Towers of Hanoi (kort gjennomgang av ferdig kode)
+    - https://github.com/GetAcademy/TowersOfHanoi2024
 
 ---
 
