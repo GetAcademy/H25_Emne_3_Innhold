@@ -40,24 +40,36 @@ Opptak:
 
 Kode: 
 
-- https://github.com/GetAcademy/ConsoleApp2
+- https://github.com/GetAcademy/H25_3.1_ConsoleApp2
 ---
 
 ### Økt 2 – torsdag 20.11 – Grunnleggende C#
 
-- Datatyper: bool, int, char, string, float/double
+- Datatyper: `bool`, `int`, `char`, `string`, `float`/`double`
+- `var`
 - Spørre-metoder i MyConsole
     - AskForBool
     - AskForChar
     - AskForFloat
+- `null`-verdier og nullable types
 - Eksempel: Bruker velger tegn, posisjon og invertering eller ikke
 - Arrays og lister. 
     - Bruker velger del av ascii-tabellen
     - Loope gjennom ConsoleColors
+    - Printe flere linjer med tekst i en bestemt posisjon (inkl. `params`)
     - `enum`
 - Overloads og default parameters - Vi utvider MyConsole
 - Tilfeldige tall 
 - Game of life
+
+
+Kode: 
+
+- https://github.com/GetAcademy/H25_3.2_DemoDatatypesArrayOverloadRandom
+
+Opptak: 
+
+- https://photos.app.goo.gl/LtzUPsU5RxMXgaVH7
 
 ---
 
@@ -68,7 +80,19 @@ Kode:
 - Lage `GameObject`
 - Enkel konsoll-animasjon
 - Flytte metoder inn i klasser
-- Properties og constructor
+
+Shortcuts: 
+
+- https://resources.jetbrains.com/storage/products/resharper/docs/ReSharper_DefaultKeymap_VSscheme.pdf
+- https://visualstudio.microsoft.com/keyboard-shortcuts.pdf
+
+Kode: 
+
+- https://github.com/GetAcademy/H25_3.3_IntroObjects
+
+Opptak: 
+
+- https://photos.app.goo.gl/oDq3gbA4NBgZHcnd6
 
 ---
 
@@ -78,19 +102,30 @@ Kode:
 
 ### Økt 4 – torsdag 27.11 – Strukturerte klasser og serialisering
 
+- Constructor
 - Enkel klikker knyttet til en bestemt tast i tre versjoner
     - en klikker uten klasse
     - en klikker med klasse
     - mange klikkere med klasse
 - Static vs. non-static
+    - flere eksempler: https://chatgpt.com/share/692847e0-ccfc-8012-8a07-4fb97c02d80e
 - JSON save/load
+
+Opptak: 
+
+- https://photos.app.goo.gl/BQpEm6SBsmwb8ab98
+
+Kode: 
+
+- https://github.com/GetAcademy/H25_3.4_MoreClassAndStatic
 
 ---
 
 ### Økt 5 – tirsdag 2.12 – Introduksjon til objektorientering
 
 - Innkapsling (encapsulation)
-- Trafikklys som eksempel [TrafficLightConsole.cs](files/5/TrafficLightConsole.cs)
+- Properties
+- Trafikklys som eksempel
     - Kan gjøre refactoring internt uten å påvirke koden rundt
 - Innpakking av ikke-fleksibel array i klasse + enkel generics 
 - Towers of Hanoi (kort gjennomgang av ferdig kode)
