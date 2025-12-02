@@ -131,6 +131,12 @@ Kode:
 - Towers of Hanoi (kort gjennomgang av ferdig kode)
     - https://github.com/GetAcademy/TowersOfHanoi2024
 
+Opptak: 
+
+Kode: 
+
+- https://github.com/GetAcademy/H25_3.5_Encapsulation
+
 ---
 
 ### Økt 6 – torsdag 4.12 – OO-modellering videre
