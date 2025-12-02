@@ -133,6 +133,8 @@ Kode:
 
 Opptak: 
 
+- https://photos.app.goo.gl/Sc3zVDpAENYHD8mQA
+
 Kode: 
 
 - https://github.com/GetAcademy/H25_3.5_Encapsulation
