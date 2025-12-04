@@ -147,6 +147,7 @@ Kode:
     - Eksempel på bibliotek for rike brukergrensesnitt
     - Relevant som eksempel på objektorientering + native app-utvikling (er typisk enten lignende bibliotek eller innpakking av web frontend)
     - Avalonia (https://avaloniaui.net/) for de som bruker Mac eller Linux
+        - https://chatgpt.com/share/693182ef-36c0-8012-a340-3be55cef5211
     - Klikker som eksempel 
         - inkl. kort introduksjon til hva arv er
 - Kort om model-view-presenter og se på å gjenbruke model (inkl. metodene som endrer på model, dvs. controller i MVC) til både view i Console og WPF
