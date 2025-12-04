@@ -158,6 +158,7 @@ Opptak:
 Kode: 
 
 - https://github.com/GetAcademy/H25_3.6_WpfDemoA
+- https://github.com/GetAcademy/H25_3.6_MultiViewClicker
 
 ---
 
