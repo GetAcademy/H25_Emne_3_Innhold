@@ -151,6 +151,14 @@ Kode:
         - inkl. kort introduksjon til hva arv er
 - Kort om model-view-presenter og se på å gjenbruke model (inkl. metodene som endrer på model, dvs. controller i MVC) til både view i Console og WPF
 
+Opptak: 
+
+- https://photos.app.goo.gl/ejAz2abQbABfYVsX7
+
+Kode: 
+
+- https://github.com/GetAcademy/H25_3.6_WpfDemoA
+
 ---
 
 <a id="del3"></a>
