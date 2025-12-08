@@ -169,11 +169,18 @@ Kode:
 
 ### Økt 7 – fredag 6.12 – Intro API
 
+- Hva er API? Hva er backend?
 - Introduksjon til ASP.NET Minimal API
 - ClaimTheSquare del 1 
-    - Lage API
+    - Bygge API til ferdig frontend
+        - https://getacademy.github.io/ClaimTheSquare
+        - https://github.com/GetAcademy/ClaimTheSquare
+    - Lage API med in-memory db    
     - Koble til Vanilla JavaScript-frontend
-    - HTTP-tunnel
+        - Axios https://axios-http.com/docs/intro
+        - `async` og `await`
+    - HTTP-tunnel med [Ngrok](./details/ngrok.md)
+    - Hvis tid, persistens til fil
 
 ---
 
