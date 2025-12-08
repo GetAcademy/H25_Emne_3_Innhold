@@ -179,7 +179,7 @@ Kode:
     - Koble til Vanilla JavaScript-frontend
         - Axios https://axios-http.com/docs/intro
         - `async` og `await`
-    - HTTP-tunnel med [Ngrok](./details/ngrok.md)
+    - HTTP-tunnel 
     - Hvis tid, persistens til fil
 
 ---
