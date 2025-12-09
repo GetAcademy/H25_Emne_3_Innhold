@@ -200,7 +200,9 @@ Artikkel om callbacks, promises og async/await:
 ### Økt 8 – tirsdag 9.12 – ClaimTheSquare del 2
 
 - Mer om ASP.NET
-- Enkel persistens
+- Enkel persistens til fil
+    - Inkl. async/await
+- Begynne på SQL og databaser hvis tid
 
 ---
 
