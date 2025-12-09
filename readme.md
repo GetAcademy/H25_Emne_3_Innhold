@@ -189,6 +189,11 @@ Opptak:
 Kode: 
 
 - https://github.com/GetAcademy/H25_3.7_ClaimTheSquareFullstack
+- https://github.com/GetAcademy/AsyncAwait
+
+Artikkel om callbacks, promises og async/await: 
+
+- https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial
 
 ---
 
