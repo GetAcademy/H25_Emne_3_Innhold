@@ -182,6 +182,14 @@ Kode:
     - HTTP-tunnel 
     - Hvis tid, persistens til fil
 
+Opptak: 
+
+- https://photos.app.goo.gl/2WXXqkijoQuRL8XF9
+
+Kode: 
+
+- https://github.com/GetAcademy/H25_3.7_ClaimTheSquareFullstack
+
 ---
 
 ### Økt 8 – tirsdag 9.12 – ClaimTheSquare del 2
