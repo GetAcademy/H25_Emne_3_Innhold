@@ -202,6 +202,7 @@ Artikkel om callbacks, promises og async/await:
 - Mer om ASP.NET
 - Enkel persistens til fil
     - Inkl. async/await
+- Vise sync vs async API
 - Begynne på SQL og databaser hvis tid
 
 ---
