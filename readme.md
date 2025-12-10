@@ -199,11 +199,12 @@ Artikkel om callbacks, promises og async/await:
 
 ### Økt 8 – tirsdag 9.12 – ClaimTheSquare del 2
 
-- Mer om ASP.NET
-- Enkel persistens til fil
-    - Inkl. async/await
-- Vise sync vs async API
-- Begynne på SQL og databaser hvis tid
+- Om forskjell mellom kjøremiljøet i JavaScript vs C#
+    - JavaScript single threaded, async = en nødvendighet for at språket skal fungere i det hele tatt
+    - C# er multi-threaded, async = frigjør én tråd, ikke “magisk parallellitet”
+- API med sync vs async - https://github.com/GetAcademy/H25_E3.8_AsyncVsSyncAPI
+- Claim the Square - enkel persistens til fil
+- [Hva er minuset med fil-persistens?](./details/8_fil_persistens.md)
 
 ---
 
