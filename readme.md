@@ -206,6 +206,15 @@ Artikkel om callbacks, promises og async/await:
 - API med sync vs async - https://github.com/GetAcademy/H25_E3.8_AsyncVsSyncAPI
 - [Hva er minuset med fil-persistens?](./details/8_fil_persistens.md)
 
+
+Opptak: 
+
+- https://photos.app.goo.gl/cY1rm3KXqBrUu7uz8
+
+Kode: 
+
+- https://github.com/GetAcademy/H25_3.8_ClaimTheSquareFullstackWithFilePersitence
+
 ---
 
 ### Økt 9 – torsdag 11.12 – ClaimTheSquare del 3
