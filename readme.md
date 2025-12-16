@@ -221,6 +221,7 @@ Kode:
 
 - Kort introduksjon til SQL og databaser + snakke med database fra C#
 - SQL Server Management Studio: https://learn.microsoft.com/en-us/ssms/install/install
+- Videre på SQL: https://sqlbolt.com
 
 Opptak: 
 
