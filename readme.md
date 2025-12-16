@@ -224,7 +224,7 @@ Kode:
 
 Opptak: 
 
-- 
+- https://photos.app.goo.gl/Banm8nkYJxzoUFB76
 
 Kode: 
 
