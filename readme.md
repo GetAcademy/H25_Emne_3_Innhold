@@ -237,18 +237,9 @@ Kode:
 ## Del 4 – Videregående objektorientering
 
 
-### Økt 10 – torsdag 18.12 – Introduksjon til interface
+### Økt 10 – torsdag 18.12 – Introduksjon til interface og arv
 
 - Enkel polymorfisme med interface og arv
-
----
-
-### Økt 11 – tirsdag 18.12 – LINQ og IEnumerable
-
-- `IEnumerable` og `IEnumerator`
-- Extension methods
-- Builder Pattern
-- Grunnleggende LINQ
 
 ---
 
@@ -260,8 +251,17 @@ Kode:
 
 ---
 
+### Økt 11 – tirsdag 6.1 – LINQ og IEnumerable
 
-### Økt 12 – tirsdag 6.1 – SRP og DIP
+- `IEnumerable` og `IEnumerator`
+- Extension methods
+- Builder Pattern
+- Grunnleggende LINQ
+
+---
+
+
+### Økt 12 – torsdag 8.1 – SRP og DIP
 
 - Dependency Inversion Principle (DIP) 
     - Eksempel: ChatClient og ChatServer
@@ -276,15 +276,9 @@ Kode:
 
 ---
 
-### Økt 13 – torsdag 8.1 – Unit testing og mocking
+### Økt 13 – tirsdag 13.1 – Unit testing og mocking
 
 - Unit testing med NUnit
 - Testing av service-klasser inkl. mocking 
 - Testing av ClaimTheSquare-logikk hvis tid
 
----
-
-### Økt 14 – tirsdag 13.1 – Arv og oppsummerende småprosjekt
-
-- Mer om arv - eller ledig til om det er noe annet vi ikke har rukket eller ønsker mer av.
-- Kort nevne objektorientert analyse og design om vi ikke har snakket om det.
