@@ -221,6 +221,14 @@ Kode:
 
 - Kort introduksjon til SQL og databaser + snakke med database fra C#
 
+Opptak: 
+
+- 
+
+Kode: 
+
+- https://github.com/GetAcademy/H25_3.9_ClaimTheSquareFullstackWithDb
+
 ---
 
 <a id="del4"></a>
