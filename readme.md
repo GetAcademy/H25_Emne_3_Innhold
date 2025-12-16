@@ -220,6 +220,7 @@ Kode:
 ### Økt 9 – tirsdag 16.12 – ClaimTheSquare del 3
 
 - Kort introduksjon til SQL og databaser + snakke med database fra C#
+- SQL Server Management Studio: https://learn.microsoft.com/en-us/ssms/install/install
 
 Opptak: 
 
