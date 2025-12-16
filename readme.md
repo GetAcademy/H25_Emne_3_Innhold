@@ -228,13 +228,13 @@ Kode:
 ## Del 4 – Videregående objektorientering
 
 
-### Økt 10 – torsdag 16.12 – Introduksjon til interface
+### Økt 10 – torsdag 18.12 – Introduksjon til interface
 
 - Enkel polymorfisme med interface og arv
 
 ---
 
-### Økt 11 – torsdag 18.12 – LINQ og IEnumerable
+### Økt 11 – tirsdag 18.12 – LINQ og IEnumerable
 
 - `IEnumerable` og `IEnumerator`
 - Extension methods
