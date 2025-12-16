@@ -167,7 +167,7 @@ Kode:
 
 ## Del 3 – API, kobling til frontend og forenklet fullstack
 
-### Økt 7 – fredag 6.12 – Intro API
+### Økt 7 – tirsdag 9.12 – Intro API
 
 - Hva er API? Hva er backend?
 - Introduksjon til ASP.NET Minimal API
@@ -197,7 +197,7 @@ Artikkel om callbacks, promises og async/await:
 
 ---
 
-### Økt 8 – tirsdag 9.12 – ClaimTheSquare del 2
+### Økt 8 – torsdag 11.12 – ClaimTheSquare del 2
 
 - Claim the Square - enkel persistens til fil
 - Om forskjell mellom kjøremiljøet i JavaScript vs C#
@@ -217,7 +217,7 @@ Kode:
 
 ---
 
-### Økt 9 – torsdag 11.12 – ClaimTheSquare del 3
+### Økt 9 – tirsdag 16.12 – ClaimTheSquare del 3
 
 - Kort introduksjon til SQL og databaser + snakke med database fra C#
 
@@ -228,7 +228,7 @@ Kode:
 ## Del 4 – Videregående objektorientering
 
 
-### Økt 10 – tirsdag 16.12 – Introduksjon til interface
+### Økt 10 – torsdag 16.12 – Introduksjon til interface
 
 - Enkel polymorfisme med interface og arv
 
