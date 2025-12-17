@@ -241,6 +241,14 @@ Kode:
 ### Økt 10 – torsdag 18.12 – Introduksjon til interface og arv
 
 - Enkel polymorfisme med interface og arv
+- TextElements
+    - helt enkelt
+    - med interface
+    - med arv
+- Stars
+    - helt enkelt
+    - med interface
+    - med arv
 
 
 Kode: 
