@@ -242,6 +242,12 @@ Kode:
 
 - Enkel polymorfisme med interface og arv
 
+
+Kode: 
+
+- https://github.com/GetAcademy/StarsAndTextElementsAsIntroToInterfaceAndInheritance
+
+
 ---
 
 ### Juleferie og selvstudium
