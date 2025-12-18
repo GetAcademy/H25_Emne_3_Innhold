@@ -250,6 +250,9 @@ Kode:
     - med interface
     - med arv
 
+Opptak: 
+
+- https://photos.app.goo.gl/Xq11cQVPicPp8iNT8
 
 Kode: 
 
