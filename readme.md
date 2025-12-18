@@ -249,6 +249,9 @@ Kode:
     - helt enkelt
     - med interface
     - med arv
+- Om hvorfor ikke arv skal over-brukes: 
+    - https://en.wikipedia.org/wiki/Composition_over_inheritance
+    - Bruk ChatGPT eller tilsvarende og be om forklaring i C# eller ditt foretrukne språk
 
 Opptak: 
 
