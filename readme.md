@@ -254,7 +254,7 @@ Kode:
 Kode: 
 
 - https://github.com/GetAcademy/StarsAndTextElementsAsIntroToInterfaceAndInheritance
-
+- Todo-liste med kommandoer: https://github.com/GetAcademy/IntroToInterfaceWithTextAndCommands/tree/main/Todo
 
 ---
 
