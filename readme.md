@@ -279,6 +279,14 @@ Kode:
 - Builder Pattern
 - Grunnleggende LINQ
 
+Opptak: 
+
+- https://photos.app.goo.gl/sMcfKzUBTBRCT8A88
+
+Kode: 
+
+- https://github.com/GetAcademy/H25_3.11_IEnumerableAndIntroLinq
+
 ---
 
 
