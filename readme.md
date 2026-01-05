@@ -279,6 +279,7 @@ Kode:
 - Builder Pattern
 - Grunnleggende LINQ
     - https://vslapp.wordpress.com/wp-content/uploads/2011/11/linq-cheatsheet.pdf
+    - https://www.scribd.com/document/857676101/LINQ-Cheat-Sheet
 
 Opptak: 
 
