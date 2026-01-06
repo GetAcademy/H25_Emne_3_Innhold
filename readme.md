@@ -304,6 +304,7 @@ Kode:
 - Arkitektonisk innsikt
   - Logikk skal ikke vite *hvor* data kommer fra
   - Dette er Dependency Inversion – uten interfaces
+- Ev. kort om streaming og ReadLines og IEnumerable<string>
 - OO-løsning: Dependency Injection med interface
   - Introduser `ILineReader` og konkrete implementasjoner
   - `StatService` som tydelig service-klasse
