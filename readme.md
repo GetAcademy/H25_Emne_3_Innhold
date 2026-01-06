@@ -294,16 +294,29 @@ Kode:
 
 ### Økt 12 – torsdag 8.1 – SRP og DIP
 
-- Dependency Inversion Principle (DIP) 
-    - Eksempel: ChatClient og ChatServer
-- Single Responsibility Principle (SRP)
-    - Eksempel: telle linjer med søketekst i fil 
-    - versjon 0: kode som blandet logikk og lesing fra fil
-- Vi bruker DIP til å skrive om til kode som tilfredsstiller SRP
-    - Dependency _Injection_ og service-klasser
-    - versjon 1a: Med interface og dependency injection
+- Motivasjon: løse koblinger (DIP-intuisjon)
+  - ChatServer / ChatClient: fra hard kobling til avhengighet av abstraksjon
+- Problemstilling: brudd på Single Responsibility
+  - Tekststatistikk v0: lesing av fil + logikk + aggregering i samme metode
+- Første opprydding: “Imperative Shell, Core Logic”
+  - Flytt all beregning til én ren metode (`ComputeStats`)
+  - IO-kode blir kun ansvarlig for å hente linjer
+- Arkitektonisk innsikt
+  - Logikk skal ikke vite *hvor* data kommer fra
+  - Dette er Dependency Inversion – uten interfaces
+- OO-løsning: Dependency Injection med interface
+  - Introduser `ILineReader` og konkrete implementasjoner
+  - `StatService` som tydelig service-klasse
+- Variasjon og fleksibilitet
+  - Bytt mellom fil, web og tastatur uten å endre logikk
+    - KeyboardLineReader 
+    - WebLineReader (WebClient, OpenRead)
+- Oppsummering
+  - SRP oppnås ved hjelp av DIP
+  - Interfaces er et verktøy – ikke målet
+
+
 - Kort om "Functional Core, Imperative Shell" ala Scott Wlaschin, https://www.youtube.com/watch?v=P1vES9AgfC4
-    - versjon 1b: Dependency Inversion manuelt uten interface
 
 ---
 
