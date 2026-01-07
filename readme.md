@@ -301,9 +301,7 @@ Kode:
 - Første opprydding: “Imperative Shell, Core Logic”
   - Flytt all beregning til én ren metode (`ComputeStats`)
   - IO-kode blir kun ansvarlig for å hente linjer
-- Arkitektonisk innsikt
-  - Logikk skal ikke vite *hvor* data kommer fra
-  - Dette er Dependency Inversion – uten interfaces
+  - Dette er faktisk å følge Dependency Inversion Principle (uten interfaces)
 - Ev. kort om streaming og ReadLines og IEnumerable<string>
 - OO-løsning: Dependency Injection med interface
   - Introduser `ILineReader` og konkrete implementasjoner
