@@ -313,7 +313,7 @@ Kode:
 - Oppsummering
   - SRP oppnås ved hjelp av DIP
   - Interfaces er et verktøy – ikke målet
-
+  
 
 - Kort om "Functional Core, Imperative Shell" ala Scott Wlaschin, https://www.youtube.com/watch?v=P1vES9AgfC4
 
