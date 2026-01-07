@@ -317,6 +317,16 @@ Kode:
 
 - Kort om "Functional Core, Imperative Shell" ala Scott Wlaschin, https://www.youtube.com/watch?v=P1vES9AgfC4
 
+
+Opptak: 
+
+- https://photos.app.goo.gl/crbdLFQCbHkpXHbm9
+
+Kode: 
+
+- https://github.com/GetAcademy/IntroSrpAandDip
+
+
 ---
 
 ### Økt 13 – tirsdag 13.1 – Unit testing og mocking
