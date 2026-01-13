@@ -332,7 +332,16 @@ Kode:
 
 ### Økt 13 – tirsdag 13.1 – Unit testing og mocking
 
-- Unit testing med NUnit
-- Testing av service-klasser inkl. mocking 
-- Testing av ClaimTheSquare-logikk hvis tid
+1. API for å registrere brukernavn helt enkel kode
+1. API for å registrere brukernavn med dependency injection
+1. Testing av siste API med NUnit og mocking
+1. API for å registrere brukernavn med "imperative shell + pure core"
+1. Testing av siste API med NUnit (vi trenger ikke mocking)
 
+Opptak: 
+
+- https://photos.app.goo.gl/LnZqAceDQRxzCSGy7
+
+Kode: 
+
+- https://github.com/GetAcademy/TestingAfterDependencyInversion
